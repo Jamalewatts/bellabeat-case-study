@@ -48,11 +48,12 @@ The analysis followed the full data analysis process:
 ---
 
 ## 📊 Visualizations
-Visualizations used in this analysis include:
-- Average Daily Steps by Consistency Group
-- Average Sleep Engagement Rate by Consistency Group
 
-(Visuals available upon request or in accompanying portfolio materials.)
+### Average Daily Steps by Consistency Group
+![Average Daily Steps by Consistency Group](visuals/avg_steps_by_consistency.png)
+
+### Average Sleep Engagement Rate by Consistency Group
+![Average Sleep Engagement Rate by Consistency Group](visuals/sleep_engagement_by_consistency.png)
 
 ---
 
