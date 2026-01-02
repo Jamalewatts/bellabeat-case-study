@@ -1,5 +1,9 @@
 # Bellabeat Case Study: How Can a Wellness Technology Company Play It Smart?
 
+## 📝 Full Case Study Write-Up
+Read the complete analysis on Medium:  
+👉 [Bellabeat Case Study on Medium](https://medium.com/@jamalwatts/how-smart-device-data-can-drive-better-wellness-decisions-a-bellabeat-case-study-ee7910fb1e1c)
+
 ## 📌 Project Overview
 This case study analyzes smart fitness tracker data to identify trends in user behavior and provide data-driven recommendations for Bellabeat, a high-tech wellness company focused on women’s health. The goal of the analysis is to understand how consistency in user engagement relates to activity levels and deeper feature adoption, such as sleep tracking.
 
