@@ -50,10 +50,10 @@ The analysis followed the full data analysis process:
 ## 📊 Visualizations
 
 ### Average Daily Steps by Consistency Group
-![Average Daily Steps by Consistency Group](visuals/avg_steps_by_consistency.png)
+![Average Daily Steps by Consistency Group](./visuals/avg_steps_by_consistency.png)
 
 ### Average Sleep Engagement Rate by Consistency Group
-![Average Sleep Engagement Rate by Consistency Group](visuals/sleep_engagement_by_consistency.png)
+![Average Sleep Engagement Rate by Consistency Group](./visuals/sleep_engagement_by_consistency.png)
 
 ---
 
